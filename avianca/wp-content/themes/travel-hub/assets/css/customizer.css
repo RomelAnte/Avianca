@@ -1,0 +1,13 @@
+.control-section-adventure-travelling h3.accordion-section-title {
+    color: #fcbcba !important;
+    border: 2px solid #fcbcba !important;
+    border-left: none !important;
+    border-right: none !important;
+}
+a.button.button-secondary.alignright{
+    background: #344269;
+}
+.actions {
+    margin-top: 4em !important;
+    margin-bottom: 3em !important;
+}

@@ -1,0 +1,138 @@
+# Translation of Themes - Travel Hub in Spanish (Ecuador)
+# This file is distributed under the same license as the Themes - Travel Hub package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-09-05 10:00:54+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: es_EC\n"
+"Project-Id-Version: Themes - Travel Hub\n"
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Travel Hub"
+msgstr "Travel Hub"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Travel Hub is a best choice for any travel related website. The theme is multipurpose in nature. It is implemented on bootstrap framework which makes it very handy to use Travel Hub is the best choice suitable for holiday, hotel booking, travel agency, resort, tourism, spa, vacation, accommodation, B&B, Tourist Destinations, Travel Magazines, Travel Diaries, Travel Guides, magazine, portfolio and preferably ideal for any type of blog sites. The theme is SEO-friendly that will help your website rank soon on major search engines like Google. It is translation-ready and supports RTL layout. You can add shortcodes if you know coding. Also, it has minimal design and is mobile-friendly which looks beautiful on any device, be it desktop, mobile or tabs. It is user-friendly and offers a lot of customization and personalization options and features. It is optimized for speed hence loads without any glitches. It is written with clean and secure codes. The social media option let’s you link all your social media pages to the website. Moreover, it has a testimonial section where your visitors and customers can comment on your work."
+msgstr "Travel Hub es la mejor opción para cualquier web relacionada con viajes. El tema es multiuso por naturaleza. Está implementado en el framework Bootstrap, que hace que sea muy práctico de usar. Travel Hub es la mejor opción, adecuada para vacaciones, reserva de hoteles, agencias de viajes, resorts, turismo, spa, alojamiento, B & B, destinos turísticos, revistas de viajes, diarios de viaje, guías de viaje, revistas, porfolio y, preferiblemente, ideal para cualquier tipo de sitio de blog. El tema está optimizado para SEO, lo que ayudará a tu web a posicionarse pronto en los principales motores de búsqueda, como Google. Está preparado para su traducción y es compatible con el diseño para RTL. Puedes añadir shortcodes si sabes programar. Además, tiene un diseño minimalista y es amigable con los móviles, por lo que se ve bonito en cualquier dispositivo, ya sea de escritorio, móvil o tablerta. Es fácil de usar y ofrece muchas opciones de personalización y características. Está optimizado para la velocidad, por lo que carga sin ningún problema. Está escrito con códigos limpios y seguros. La opción de medios sociales te permite enlazar todas tus páginas de medios sociales con la web. Además, tiene una sección de testimonios, donde tus visitantes y clientes pueden comentar tu trabajo."
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:33
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s comentario en «%2$s»"
+msgstr[1] "%1$s comentarios en «%2$s»"
+
+#: comments.php:59
+msgid "Previous"
+msgstr "Anterior"
+
+#: comments.php:60
+msgid "Next"
+msgstr "Siguiente"
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: customizer/customizer.php:48
+msgid "Trip Offers Settings"
+msgstr "Ajustes de las ofertas de viajes"
+
+#: customizer/customizer.php:68
+msgid "Short Title"
+msgstr "Título corto"
+
+#: customizer/customizer.php:81
+msgid "Section Title"
+msgstr "Título de la sección"
+
+#: customizer/customizer.php:90
+msgid "Section Description"
+msgstr "Descripción de la sección"
+
+#: customizer/customizer.php:114
+msgid "Select Category"
+msgstr "Seleccionar la categoría"
+
+#: functions.php:41
+msgid "Blog Sidebar"
+msgstr "Barra lateral del blog"
+
+#: functions.php:43 functions.php:63
+msgid "Add widgets here to appear in your sidebar on blog posts and archive pages."
+msgstr "Añade widgets aquí para que aparezcan en tu barra lateral en las entradas del blog y en las páginas del archivo."
+
+#: functions.php:51
+msgid "Page Sidebar"
+msgstr "Barra lateral de las páginas"
+
+#: functions.php:53
+msgid "Add widgets here to appear in your sidebar on pages."
+msgstr "Añade widgets aquí para que aparezcan en tu barra lateral de las páginas."
+
+#: functions.php:61
+msgid "Sidebar 3"
+msgstr "Barra lateral 3"
+
+#: functions.php:71
+msgid "Footer 1"
+msgstr "Pie de página 1"
+
+#: functions.php:73 functions.php:83 functions.php:93 functions.php:103
+msgid "Add widgets here to appear in your footer."
+msgstr "Añade widgets aquí para que aparezcan en tu pie de página."
+
+#: functions.php:81
+msgid "Footer 2"
+msgstr "Pie de página 2"
+
+#: functions.php:91
+msgid "Footer 3"
+msgstr "Pie de página 3"
+
+#: functions.php:101
+msgid "Footer 4"
+msgstr "Pie de página 4"
+
+#: functions.php:181
+msgid "Trip Offer Meta Feilds"
+msgstr "Campos meta de la oferta de viaje"
+
+#: functions.php:199
+msgid "Package Amount"
+msgstr "Importe del paquete"
+
+#: functions.php:207
+msgid "Package Days"
+msgstr "Días del paquete"
+
+#: template-parts/home/travel-offers.php:47
+msgid "Learn More"
+msgstr "Aprender más"
+
+#. Theme URI of the theme
+#: style.css functions.php:246
+#, gp-priority: low
+msgid "https://www.themespride.com/themes/free-travel-wordpress-theme/"
+msgstr "https://www.themespride.com/themes/free-travel-wordpress-theme/"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "ThemesPride"
+msgstr "ThemesPride"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://www.themespride.com/"
+msgstr "https://www.themespride.com/"
